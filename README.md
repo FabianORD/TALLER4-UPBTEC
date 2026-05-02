@@ -34,3 +34,8 @@ También se puede ejecutar en Node.js, pero en ese caso se necesita instalar una
 - main.js: programa principal con el menú y todas las funciones de gestión.
 - prestamos.js: lógica relacionada con préstamos y devoluciones.
 - README.md: este documento.
+
+## INTEGRANTES: 
+-Valentina García Pizón
+-Vladirmir Celis Almeyda
+-Fabián Rojas Delgado

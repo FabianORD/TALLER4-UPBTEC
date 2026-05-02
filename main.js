@@ -26,7 +26,7 @@ let biblioteca = {
       disponible: true
     }
   ],
-  usuarios: [] // Registro de usuarios añadido
+  usuarios: [] 
 };
 
 
@@ -53,3 +53,4 @@ function mostrarUsuarios() {
   }
   console.log("---------------------------");
 }
+
